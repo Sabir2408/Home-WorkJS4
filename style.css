@@ -1,0 +1,13 @@
+.counter-block{
+    margin: 0 auto;
+    text-align: center;
+}
+.counter-title{
+    color: green;
+}
+button{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: orange;
+}
